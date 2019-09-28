@@ -6,8 +6,10 @@ Click on [View CMOS-VLSI-Design on GitHub](https://github.com/bowuu/CMOS-VLSI-De
 
 ## HSPICE
 
-Labs 1 and 2
+[Lab 1](https://github.com/bowuu/CMOS-VLSI-Design/tree/master/Lab%201)
+
+[Lab 2](https://github.com/bowuu/CMOS-VLSI-Design/tree/master/Lab%202)
 
 ## Virtuoso
 
-Lab 3+
+[Lab 3](https://github.com/bowuu/CMOS-VLSI-Design/tree/master/Lab%203)
