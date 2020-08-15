@@ -1,4 +1,4 @@
-# HSPICE Inverter and NAND
+# HSPICE Part 1
 
 ## Inverter
 ![Image 1](Inverter/inv.png)
