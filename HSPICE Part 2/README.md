@@ -10,4 +10,4 @@
 ![Image 3](PMOS/pmos.png)
 
 ## Transmission Gate
-![Image 4](Transmission Gate/tgate.png)
+![Image 4](Transmission%20Gate/tgate.png)
