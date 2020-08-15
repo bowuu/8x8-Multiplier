@@ -1,8 +1,9 @@
-# CMOS-VLSI-Design
-
-Learning to use HSPICE and Cadence Virtuoso to create transistors and ICs
+# 8x8 Multipler in Cadence Virtuoso
 
 Click [HERE](https://github.com/bowuu/CMOS-VLSI-Design) to learn more!
+
+## Final Layout
+
 
 ## Output Waveforms
 Click [HERE](https://github.com/bowuu/8x8-Multiplier/tree/master/Waveforms)
