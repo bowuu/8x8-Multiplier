@@ -4,7 +4,7 @@
 ![Image 1](Images/Inverter.png)
 
 ## NAND
-![Image 1](Images/NAND.png)
+![Image 2](Images/NAND.png)
 
 ## NOR
-![Image 1](Images/NOR.png)
+![Image 3](Images/NOR.png)
