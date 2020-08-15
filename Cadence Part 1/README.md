@@ -8,3 +8,4 @@
 
 ## NOR
 ![Image 1](Images/NOR.png)
+asdf
