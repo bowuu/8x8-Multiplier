@@ -1,5 +1,13 @@
-# Test
+# HSPICE Multiplexer, NMOS, PMOS, and Transmission Gate
 
-## Test
+## Multiplexer
+![Image 1](Multiplexer/mux.png)
 
-![Image 1]()
+## NMOS
+![Image 2](NMOS/nmos.png)
+
+## PMOS
+![Image 3](PMOS/pmos.png)
+
+## Transmission Gate
+![Image 4](Transmission Gate/tgate.png)
