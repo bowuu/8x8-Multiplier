@@ -24,10 +24,10 @@
 ## 11111111 x 11111111 = 1111111000000001 (255 x 255 = 65025)
 ![Image 2](11111111x11111111=1111111000000001.png)
 
-## Test Mode Full
+## Test Mode Full (Serial through shift registers)
 ![Image 2](TestModeAll.png)
 
-## Test Mode Zoomed In
+## Test Mode Zoomed In (Serial through shift registers)
 ![Image 2](TestModeSmall.png)
 
 
