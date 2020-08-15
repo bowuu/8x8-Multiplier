@@ -1,4 +1,4 @@
-# 8x8 Multipler in Cadence Virtuoso
+# 8x8 Multiplier in Cadence Virtuoso
 
 Click [HERE](https://github.com/bowuu/CMOS-VLSI-Design) to learn more!
 
