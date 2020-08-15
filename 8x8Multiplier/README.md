@@ -3,44 +3,44 @@
 ## 8x8 Multiplier in Padframe
 ![Image](Images/PadFull.png)
 
-## Padframe Zoom
+## Padframe (Zoom)
 ![Image](Images/Padzoom.png)
 
-## Padframe Top
+## Padframe (Top)
 ![Image](Images/PadzoomTop.png)
 
-## Padframe Middle
+## Padframe (Middle)
 ![Image](Images/PadzoomMiddle.png)
 
-## Padframe Bottom
+## Padframe (Bottom)
 ![Image](Images/PadzoomBottom.png)
 
-## 8x8 Multiplier Standalone
+## 8x8 Multiplier (Standalone)
 ![Image](Images/8x8Standalone.png)
 ![Image](Images/8x8Old.png)
 
 ## 16-Bit Shift Register
 ![Image](Images/16SRMux.png)
 
-## 16-bit Shift Register Instanced
+## 16-bit Shift Register (Instanced)
 ![Image](Images/16SRMuxInstanced.png)
 
-## 8-bit Shift Register Horizontal
+## 8-bit Shift Register (Horizontal)
 ![Image](Images/8SRHorizontalInstanced.png)
 
-## 8-bit Shift Register Vertical
+## 8-bit Shift Register (Vertical)
 ![Image](Images/8SRVerticalInstanced.png)
 
-## 2 to 1 Multiplexer Corner
+## 2 to 1 Multiplexer (Corner)
 ![Image](Images/2MuxCorner.png)
 
-## 2 to 1 Multiplexer In-line
+## 2 to 1 Multiplexer (In-line)
 ![Image](Images/2MuxParallel.png)
 
-## 2 Wide Buffer
+## Buffer (2x Wide)
 ![Image](Images/Buffer2x.png)
 
-## 3 Wide Buffer
+## Buffer (3x Wide)
 ![Image](Images/Buffer3x.png)
 
 ## Test Mode
