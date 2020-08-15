@@ -2,8 +2,13 @@
 
 Click [HERE](https://github.com/bowuu/CMOS-VLSI-Design) to learn more!
 
-## Final Layout
+# Final Layout
 
+## 8x8 Multiplier in Padframe
+![Image](8x8Multiplier/Images/PadFull.png)
+
+## Padframe Zoom
+![Image](8x8Multiplier/Images/Padzoom.png)
 
 ## Output Waveforms
 Click [HERE](https://github.com/bowuu/8x8-Multiplier/tree/master/Waveforms)
