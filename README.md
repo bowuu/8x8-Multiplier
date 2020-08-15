@@ -7,6 +7,11 @@ Click [HERE](https://github.com/bowuu/CMOS-VLSI-Design) to learn more!
 ## Output Waveforms
 Click [HERE](https://github.com/bowuu/8x8-Multiplier/tree/master/Waveforms)
 
+## HSPICE
+
+[Part 1](https://github.com/bowuu/8x8-Multiplier/tree/master/HSPICE%20Part%201)
+
+[Part 2](https://github.com/bowuu/8x8-Multiplier/tree/master/HSPICE%20Part%202)
 
 ## Virtuoso
 
@@ -23,9 +28,3 @@ Click [HERE](https://github.com/bowuu/8x8-Multiplier/tree/master/Waveforms)
 ![Image Text2](https://i.imgur.com/p6jjdoj.png)
 ![Image Text3](https://i.imgur.com/K3KjnVP.png)
 ![Image Text4](https://i.imgur.com/JiLV6kS.png)
-
-## HSPICE
-
-[Part 1](https://github.com/bowuu/8x8-Multiplier/tree/master/HSPICE%20Part%201)
-
-[Part 2](https://github.com/bowuu/8x8-Multiplier/tree/master/HSPICE%20Part%202)
