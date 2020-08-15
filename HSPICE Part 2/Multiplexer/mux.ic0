@@ -1,0 +1,19 @@
+* "simulator" "HSPICE" 
+* "version" "F-2011.09-SP2 64-BIT"
+* "format" "HSP"
+* "rundate" "20:52:03 09/11/2019 "
+* "netlist" "mux.sp "
+* "runtitle" "**----------------------------------------------------------"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ in =   0.            
++ in1 =   0.            
++ in2 =   0.            
++ n =   1.8000        
++ out =   6.4979n       
++ vdd =   1.8000        
+***   END: Saved Operating Point ***                     

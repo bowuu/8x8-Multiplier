@@ -1,0 +1,14 @@
+### SPICE Explorer log file, revision C2009.03-SP1 (build 0906) ###
+### created at 11:07:24 on Thu Sep 12 2019 (Linux AMD64) ###
+# (0) SW_SX_PERL_LIB defined
+# (0) SW_SX_TCL_LIB defined
+# (0) HOME defined
+# (0) HOME defined
+sx_open_sim_file_read "/home/b/boyangwu/lab1/nand.tr0"
+sx_log "disp_sig 1 A P=null file=0 S='' W='v(in1)'' "
+sx_log "disp_sig 1 A P=0 file=0 S='' W='v(in2)'' "
+sx_log "disp_sig 1 A P=1 file=0 S='' W='v(out)'' "
+# (0) savedump dialog open
+# (0) savedump dialog close
+# (0) screen dump generated
+# (0) savedump.dumpsave btn down
