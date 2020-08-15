@@ -1,4 +1,5 @@
 # Test Waveforms
+Rationale for using the below numbers was to have as many numbers as possible change through the 8x8 multiplier, and thus testing functionality of all parts. 
 
 ## 01010101 x 01010101 = 0001110000111001 (85 x 85 = 7225)
 ![Image 2](01010101x01010101=0001110000111001.png)
