@@ -2,6 +2,8 @@
 
 Click [HERE](https://github.com/bowuu/CMOS-VLSI-Design) to learn more!
 
+Click [HERE](https://github.com/bowuu/8x8-Multiplier/tree/master/CadenceAll) for all layouts!
+
 # Final Layout
 
 ## 8x8 Multiplier in Padframe
