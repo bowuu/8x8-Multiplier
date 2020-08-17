@@ -1,4 +1,4 @@
-# All Layout Images in Alphanumeric Order
+# All Layout Images
 
 ## 8x8 Multiplier in Padframe
 ![Image](AllLayoutImages/8SRHorizontal.png)
