@@ -49,17 +49,17 @@ Rationale for using the below numbers was to have as many numbers as possible ch
 
 ## HSPICE
 
-[Part 1](https://github.com/bowuu/8x8-Multiplier/tree/master/HSPICE%20Part%201)
+[Part 1](https://github.com/bowuu/8x8-Multiplier/tree/master/HSPICEPart1)
 
-[Part 2](https://github.com/bowuu/8x8-Multiplier/tree/master/HSPICE%20Part%202)
+[Part 2](https://github.com/bowuu/8x8-Multiplier/tree/master/HSPICEPart2)
 
 ## Virtuoso
 
-[Part 1](https://github.com/bowuu/8x8-Multiplier/tree/master/Cadence%20Part%201)
+[Part 1](https://github.com/bowuu/8x8-Multiplier/tree/master/CadencePart1)
 
-[Part 2](https://github.com/bowuu/8x8-Multiplier/tree/master/Cadence%20Part%202)
+[Part 2](https://github.com/bowuu/8x8-Multiplier/tree/master/CadencePart2)
 
-[Part 3](https://github.com/bowuu/8x8-Multiplier/tree/master/Cadence%20Part%203)
+[Part 3](https://github.com/bowuu/8x8-Multiplier/tree/master/CadencePart3)
 
 [Complete](https://github.com/bowuu/8x8-Multiplier/tree/master/8x8%20Multiplier)
 
