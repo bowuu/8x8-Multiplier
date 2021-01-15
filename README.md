@@ -61,7 +61,7 @@ Rationale for using the below numbers was to have as many numbers as possible ch
 
 [Part 3](https://github.com/bowuu/8x8-Multiplier/tree/master/CadencePart3)
 
-[Complete](https://github.com/bowuu/8x8-Multiplier/tree/master/8x8%20Multiplier)
+[Complete](https://github.com/bowuu/8x8-Multiplier/tree/master/8x8Multiplier)
 
 ## Description
 
